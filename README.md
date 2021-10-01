@@ -1,1 +1,3 @@
 # Extraction-of-text-from-image-and-converting-it-to-speech
+Here we are using easyocr to extract the text from image Then these extracted characters language is detected using the detect function from googletrans, and the charcters are converted to speech in language like English, English in Indian accent, Hindi, Telugu, French using the gTTS.
+https://share.streamlit.io/madhan13k/text2speech_app/main/app.py
